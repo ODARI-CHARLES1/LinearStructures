@@ -84,7 +84,7 @@ You are free to use, modify, and distribute this code for personal or educationa
 
 ## Contact
 
-# **Charles Odari** 🚀  
+ **Charles Odari** 🚀  
 **Electrical & Electronics Engineer | Software Developer | IoT Enthusiast | AI/ML Researcher**  
 
 [![GitHub followers](https://img.shields.io/github/followers/CharlesOdari?label=Follow&style=social)](https://github.com/ODARI-CHARLES1)  
