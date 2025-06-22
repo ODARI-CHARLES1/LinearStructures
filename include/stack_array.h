@@ -8,7 +8,6 @@
 typedef struct {
     int data[MAX_SIZE];
     int top;
-
 }Stack;
 
 void initStack(Stack *s);
